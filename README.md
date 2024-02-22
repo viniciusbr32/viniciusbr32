@@ -12,3 +12,5 @@ Eu sou o Vinicius, sou um Programador Front End, atualmente estou aprendendo e c
 #Stats
 
 ![vinicius stats](https://github-readme-stats.vercel.app/api?username=viniciusbr32&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbr32)](https://github.com/anuraghazra/github-readme-stats)
