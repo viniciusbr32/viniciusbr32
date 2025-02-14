@@ -11,7 +11,7 @@ Estou cursando Sistemas de Informação, buscando aprimorar minhas habilidades t
 <p align="left">
   <a href="mailto:viniciusgba2008@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/luiz-vin%C3%ADcius-38182b162/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/luizmoreira01/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-vinicius-38182b162/" alt="LinkedIn"/></a>
 </p>
 
